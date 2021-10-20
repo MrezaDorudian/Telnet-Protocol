@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Telnet-Protocol
+implementation of Telnet protocol using python and sockets.  
 
-You can use the [editor on GitHub](https://github.com/MrezaDorudian/Telnet-Protocol/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+supporting these commands:
+- sending message
+- sending encrypted message
+- sending (big) files
+- execute a command in remote command line
+- check history for entered commands
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Usage
 
-### Markdown
+#### Client Side
+![Telnet-1](https://user-images.githubusercontent.com/46136179/134190825-6d3f205e-b529-4240-a206-7ba0e47cc5d2.PNG)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#### Server Side
+![Telnet-2](https://user-images.githubusercontent.com/46136179/134190850-534424b8-f0a6-43bb-afe7-1e1dd8c86314.PNG)
 
-- Bulleted
-- List
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MrezaDorudian/Telnet-Protocol/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
