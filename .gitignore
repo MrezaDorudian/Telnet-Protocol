@@ -1,0 +1,12 @@
+.idea
+downloads/
+key/
+venv/
+key.pem
+cert.pem
+client.py
+server.py
+server
+history.txt
+main2.py
+
